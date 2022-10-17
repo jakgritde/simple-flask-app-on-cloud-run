@@ -25,5 +25,5 @@ gcloud run deploy --source .
 ```
 **Step 6:** Point your browser to Cloud Run page there will be the url endpoint of your app  
 
-## The result should look like this
+## Here is my result
 https://gbp-to-thb-4tbescyvrq-ts.a.run.app/
